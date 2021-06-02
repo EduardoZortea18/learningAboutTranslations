@@ -1,0 +1,6 @@
+{
+  "demo": {
+      "title": "Translation Demo {{ name }}",
+      "text": "This is a simple demo of an ngx-translatation"
+  }
+}
